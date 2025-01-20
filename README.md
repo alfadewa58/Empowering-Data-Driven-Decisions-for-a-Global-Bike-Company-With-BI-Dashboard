@@ -96,8 +96,6 @@ The dashboard consists of three main pages:
 3. Use the slicers and filters to explore specific data, such as:
    - Filtering by year or country.
    - Drilling down into specific product categories or customer demographics.
-4. For detailed analysis, use the drill-through feature by right-clicking on a data point.
-5. Export reports if needed using the “Export” option in Power BI Service.
 
 ## Tools and Technologies Used
 
