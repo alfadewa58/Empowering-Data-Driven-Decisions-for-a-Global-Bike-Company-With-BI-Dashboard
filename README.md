@@ -2,6 +2,8 @@
 # Bike Company Dashboard Project
 ## By Alfa Isa Dewa
 
+![My Dashboard Preview](http://url/to/img.png](https://drive.google.com/file/d/10zQE-1Uc7xLiK-CMidU6a1NyUkCf1nyd/view?usp=drive_link)
+
 [View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=be318d78-2a20-4476-9a93-6925e4ad9aef&autoAuth=true&ctid=508916a0-7b89-43a1-af4e-72fe15aba5b9)
 
 ## Project Overview
