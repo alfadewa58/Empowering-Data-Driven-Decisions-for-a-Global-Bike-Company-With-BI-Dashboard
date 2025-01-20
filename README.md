@@ -103,5 +103,3 @@ The dashboard consists of three main pages:
 - **Power BI Service**: For publishing and sharing the dashboard.
 
 ---
-
-This README provides an overview of the project and instructions for using the dashboard effectively. For further assistance, refer to the documentation provided within the Power BI workspace or contact the dashboard development team.
