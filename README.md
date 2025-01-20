@@ -2,7 +2,7 @@
 # Bike Company Dashboard Project
 ## By Alfa Isa Dewa
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/10zQE-1Uc7xLiK-CMidU6a1NyUkCf1nyd/view?usp=drive_link))
+![alt text](https://github.com/alfadewa58/Empowering-Data-Driven-Decisions-for-a-Global-Bike-Company-With-BI-Dashboard/blob/main/Screenshot%202025-01-20%20164210.png)
 
 [View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=be318d78-2a20-4476-9a93-6925e4ad9aef&autoAuth=true&ctid=508916a0-7b89-43a1-af4e-72fe15aba5b9)
 
